@@ -77,15 +77,15 @@ public class Main {
 	
 	static String introMsg(String playerName, Scanner scanner) {
 		String opening1 = "XXXXXXXXXX     XX      XX     XXXXXXXXXX     XXXXXXXXXX     XXXXXXXXXX    XX      \r\n"
-						+ "XX             XX      XX     XX             XX             XX            XX      \r\n"
-						+ "XX             XX      XX     XX             XX             XX            XX      \r\n"
-						+ "XX             XX      XX     XX             XX             XX            XX      \r\n"
-						+ "XX             XX      XX     XX             XX             XX            XX      \r\n"
-						+ "XX   XXXXX     XX      XX     XXXXXXXXXX     XXXXXXXXXX     XXXXXXXXXX    XX      \r\n"
-						+ "XX      XX     XX      XX     XX                     XX             XX    XX      \r\n"
-						+ "XX      XX     XX      XX     XX                     XX             XX    XX      \r\n"
-						+ "XX      XX     XX      XX     XX                     XX             XX            \r\n"
-						+ "XXXXXXXXXX     XXXXXXXXXX     XXXXXXXXXX     XXXXXXXXXX     XXXXX XXXX    XX      ";
+				+ "XX             XX      XX     XX             XX             XX            XX      \r\n"
+				+ "XX             XX      XX     XX             XX             XX            XX      \r\n"
+				+ "XX             XX      XX     XX             XX             XX            XX      \r\n"
+				+ "XX             XX      XX     XX             XX             XX            XX      \r\n"
+				+ "XX   XXXXX     XX      XX     XXXXXXXXXX     XXXXXXXXXX     XXXXXXXXXX    XX      \r\n"
+				+ "XX      XX     XX      XX     XX                     XX             XX    XX      \r\n"
+				+ "XX      XX     XX      XX     XX                     XX             XX    XX      \r\n"
+				+ "XX      XX     XX      XX     XX                     XX             XX            \r\n"
+				+ "XXXXXXXXXX     XXXXXXXXXX     XXXXXXXXXX     XXXXXXXXXX     XXXXX XXXX    XX      ";
 
 		String opening2 = "************************- Number Guessing Game -****************************\n"
 						+ "-> Hello Player, please enter your name for moving further.";
